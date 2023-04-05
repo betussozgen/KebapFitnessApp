@@ -24,7 +24,7 @@
 
 ![Alert:](./images/AlertScreen.jpg)
 
--Kayıt tutulan Ekran:
+- Kayıt tutulan Ekran:
 
 ![Member Result Page:](./images/MemberResultScreen.jpg)
 
